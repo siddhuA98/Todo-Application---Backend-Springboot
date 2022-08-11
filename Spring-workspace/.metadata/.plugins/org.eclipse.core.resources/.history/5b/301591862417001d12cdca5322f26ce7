@@ -1,0 +1,1 @@
+insert into todo(id,username,description,is_done) values(10000,'siddhu','Learn React',false);

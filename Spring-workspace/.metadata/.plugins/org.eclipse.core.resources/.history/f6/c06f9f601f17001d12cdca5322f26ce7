@@ -1,0 +1,3 @@
+insert into todo(id, username, description, targetdate, is_done) values(1000, 'siddhu', 'Learn React', sysdate(), false);
+insert into todo(id, username, description, targetdate, is_done) values(1001, 'siddhu', 'Learn Springboot', sysdate(), false);
+insert into todo(id, username, description, targetdate, is_done) values(1002, 'siddhu', 'Build Project', sysdate(), false);

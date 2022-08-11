@@ -1,0 +1,5 @@
+package com.firstproject.project;
+
+public class BcryptEncoderTest {
+
+}

@@ -1,0 +1,5 @@
+package com.firstproject.project.todo;
+
+public class TodoJpaRepository {
+
+}
